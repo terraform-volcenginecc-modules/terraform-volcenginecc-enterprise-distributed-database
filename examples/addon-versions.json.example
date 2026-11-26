@@ -1,0 +1,8 @@
+{
+  "core_dns": "1.12.4",
+  "metrics_server": "v0.7.1-vke.6",
+  "prometheus_agent": "v3.10.0-vke.1.30",
+  "log_collector": "v2.3.3",
+  "node_problem_detector": "v0.8.19-vke.1",
+  "csi_ebs": "v1.6.0"
+}
